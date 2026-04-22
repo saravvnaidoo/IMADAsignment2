@@ -21,7 +21,7 @@ Check out the full walkthrough and features of the app here:
 ## 🚀 Key Features
 * **10 Curated Flashcards:** A balanced mix of true life hacks and viral urban myths.
 * **Interactive Gameplay:** Simple "Hack" (True) or "Myth" (False) mechanics.
-* **Instant Visual Feedback:** Immediate color-coded responses (Green for success, Red for correction).
+* **Instant Visual Feedback:** Immediate color-coded responses (Blue for success, Red for correction).
 * **Personalized Scoring:** Dynamic feedback based on your final tally (e.g., "Master Hacker" vs. "Stay Safe Online").
 * **Knowledge Review:** A dedicated review section explaining the "Why" behind every answer.
 * **Professional Design:** Optimized for usability with high-contrast text and intuitive navigation.
