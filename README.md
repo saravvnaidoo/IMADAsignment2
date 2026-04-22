@@ -5,9 +5,11 @@ In an era of viral "life hacks" and internet rumors, distinguishing fact from fi
 
 ## 📸 Visuals
 | Welcome Screen | Quiz Interface | Score Summary |
-|:---:|:---:|:---:|
-| ![Welcome](<img width="574" height="1026" alt="Screenshot 2026-04-22 115509" src="https://github.com/user-attachments/assets/c96d4394-a768-463b-ba4c-1966ae9dc4d8" />
-)
+| :---: | :---: | :---: |
+| ![Welcome](<img width="574" height="1026" alt="Screenshot 2026-04-22 115509" src="https://github.com/user-attachments/assets/d3f14c6e-2611-48a1-8008-6d7b4ecc1153" />
+) | ![Quiz](<img width="564" height="991" alt="Screenshot 2026-04-22 115836" src="https://github.com/user-attachments/assets/295e893e-c36a-4bbb-b546-7f8c894fec9a" />
+) | ![Score](<img width="566" height="1026" alt="Screenshot 2026-04-22 120209" src="https://github.com/user-attachments/assets/739822d8-e7ea-421d-aaf5-ad98a77edbe2" />
+) |
 
 *Detailed review lists are also available to provide deep-dives into every hack.*
 
