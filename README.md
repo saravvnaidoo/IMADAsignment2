@@ -1,7 +1,13 @@
 # Hack or Myth? - The Ultimate Flashcard Challenge
 
+[![Watch the Tutorial](https://img.shields.io/badge/YouTube-Video_Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/i1ZKE28CLi4)
+
 ## 🌟 Introduction
 In an era of viral "life hacks" and internet rumors, distinguishing fact from fiction is more important than ever. **Hack or Myth?** is a premium, native Android application designed to test your common sense and educate you on real-world shortcuts. Whether it's saving your phone from water damage or opening a stubborn key ring, this app provides the answers with scientific and practical explanations.
+
+## 📺 Video Tutorial
+Check out the full walkthrough and features of the app here:
+[**Watch on YouTube**](https://youtu.be/i1ZKE28CLi4)
 
 ## 📸 Visuals
 | Welcome Screen | Quiz Interface | Score Summary |
