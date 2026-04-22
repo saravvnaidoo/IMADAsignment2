@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hack or Myth</string>
+    <string name="welcome_title">Life Hack or Urban Myth?</string>
+    <string name="welcome_description">Test your common sense and learn useful real-world shortcuts. Can you spot the difference between a genuine life hack and a viral myth?</string>
+    <string name="btn_start">Start Quiz</string>
+    <string name="btn_hack">Hack (True)</string>
+    <string name="btn_myth">Myth (False)</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_review">Review Answers</string>
+    <string name="btn_restart">Try Again</string>
+    <string name="correct_feedback">Correct! That\'s a real time-saver!</string>
+    <string name="wrong_feedback">Wrong! That\'s just an urban myth.</string>
+    <string name="score_format">Your Score: %1$d / %2$d</string>
+    <string name="progress_format">Question %1$d / %2$d</string>
+    <string name="feedback_master">Master Hacker! You\'re unstoppable.</string>
+    <string name="feedback_great">Great job! You know your hacks.</string>
+    <string name="feedback_safe">Stay Safe Online! Keep practicing.</string>
+    <string name="review_title">Review Answers</string>
+    <string name="logo_desc">App Logo</string>
+</resources>

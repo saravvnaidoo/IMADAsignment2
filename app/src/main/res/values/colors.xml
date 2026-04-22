@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Primary Palette: Red, Blue, Green -->
+    <color name="theme_red">#D32F2F</color>
+    <color name="theme_blue">#1976D2</color>
+    <color name="theme_green">#388E3C</color>
+
+    <!-- Professional Darkest Black for text -->
+    <color name="text_dark">#000000</color>
+    <color name="text_subtle">#333333</color>
+
+    <!-- Functional Colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="correct_highlight">@color/theme_green</color>
+    <color name="wrong_highlight">@color/theme_red</color>
+
+    <!-- Aliases for existing code -->
+    <color name="primary">@color/theme_blue</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">@color/theme_red</color>
+
+    <!-- Specific Request: Green for home button maybe? -->
+    <color name="home_button">@color/theme_green</color>
+</resources>
