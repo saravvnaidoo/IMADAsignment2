@@ -6,7 +6,8 @@ In an era of viral "life hacks" and internet rumors, distinguishing fact from fi
 ## 📸 Visuals
 | Welcome Screen | Quiz Interface | Score Summary |
 |:---:|:---:|:---:|
-| ![Welcome](screenshots/welcome.png) | ![Quiz](screenshots/quiz.png) | ![Score](screenshots/score.png) |
+| ![Welcome](<img width="574" height="1026" alt="Screenshot 2026-04-22 115509" src="https://github.com/user-attachments/assets/c96d4394-a768-463b-ba4c-1966ae9dc4d8" />
+)
 
 *Detailed review lists are also available to provide deep-dives into every hack.*
 
